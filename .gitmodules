@@ -1,0 +1,3 @@
+[submodule "dart-fundamentos"]
+	path = dart-fundamentos
+	url = git@github.com:fabricio-dias-log/dart-fundamentos.git
