@@ -1,3 +1,6 @@
 [submodule "dart-fundamentos"]
 	path = dart-fundamentos
 	url = git@github.com:fabricio-dias-log/dart-fundamentos.git
+[submodule "estruturas-de-controle"]
+	path = estruturas-de-controle
+	url = git@github.com:fabricio-dias-log/estruturas-de-controle.git
